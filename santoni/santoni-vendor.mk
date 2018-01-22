@@ -951,4 +951,6 @@ PRODUCT_PACKAGES += \
     colorservice \
     QtiTelephonyServicelibrary \
     qcrilhook \
-    qti-telephony-common
+    qti-telephony-common \
+    FaceLock \
+    GoogleCamera
