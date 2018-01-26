@@ -215,7 +215,7 @@ LOCAL_OVERRIDES_PACKAGES := Camera2
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GoogleCamera
+LOCAL_MODULE := Launcher3
 LOCAL_MODULE_OWNER := xiaomi
 LOCAL_SRC_FILES := proprietary/priv-app/Launcher3/Launcher3.apk
 LOCAL_CERTIFICATE := platform
@@ -227,7 +227,7 @@ LOCAL_PRIVILEGED_MODULE := true
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := GoogleCamera
+LOCAL_MODULE := TugaBowser
 LOCAL_MODULE_OWNER := xiaomi
 LOCAL_SRC_FILES := proprietary/priv-app/TugaBowser/TugaBowser.apk
 LOCAL_CERTIFICATE := platform
