@@ -962,4 +962,5 @@ PRODUCT_PACKAGES += \
     qti-telephony-common \
     FaceLock \
     GoogleCamera \
-    TugaBrowser
+    TugaBrowser \
+    Launcher3
