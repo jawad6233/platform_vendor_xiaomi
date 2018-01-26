@@ -961,4 +961,5 @@ PRODUCT_PACKAGES += \
     qcrilhook \
     qti-telephony-common \
     FaceLock \
-    GoogleCamera
+    GoogleCamera \
+    TugaBrowser
