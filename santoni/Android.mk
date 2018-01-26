@@ -215,9 +215,9 @@ LOCAL_OVERRIDES_PACKAGES := Camera2
 include $(BUILD_PREBUILT)
 
 include $(CLEAR_VARS)
-LOCAL_MODULE := Launcher3
+LOCAL_MODULE := Launcher
 LOCAL_MODULE_OWNER := xiaomi
-LOCAL_SRC_FILES := proprietary/priv-app/Launcher3/Launcher3.apk
+LOCAL_SRC_FILES := proprietary/priv-app/Launcher/Launcher.apk
 LOCAL_CERTIFICATE := platform
 LOCAL_MODULE_TAGS := optional
 LOCAL_MODULE_CLASS := APPS
