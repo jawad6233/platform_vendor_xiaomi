@@ -960,7 +960,5 @@ PRODUCT_PACKAGES += \
     QtiTelephonyServicelibrary \
     qcrilhook \
     qti-telephony-common \
-    FaceLock \
-    GoogleCamera \
     TugaBrowser \
-    Launcher3
+    Launcher
